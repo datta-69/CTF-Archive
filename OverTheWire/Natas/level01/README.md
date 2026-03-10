@@ -7,7 +7,7 @@
 - **Category:** Web Security / Source Code Disclosure  
 - **URL:** http://natas1.natas.labs.overthewire.org  
 - **Username:** `natas1`  
-- **Password:** `gtVrDuiDfck831PqWsLEZy5gyDz1clto`
+- **Password:** `0nzCigAq7t2iALyvU9xcHlYN4MlkIwlq`
 
 ---
 
