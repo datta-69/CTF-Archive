@@ -14,7 +14,7 @@ http://overthewire.org/wargames/natas/
 | Level | Writeup |
 |-------|---------|
 | Level 0 → 1  | [level00](level00/) ✅ |
-| Level 1 → 2  | [level01](level01/) ⬜ |
+| Level 1 → 2  | [level01](level01/) ✅ |
 | Level 2 → 3  | [level02](level02/) ⬜ |
 | Level 3 → 4  | [level03](level03/) ⬜ |
 | Level 4 → 5  | [level04](level04/) ⬜ |
