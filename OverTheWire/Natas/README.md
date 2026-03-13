@@ -23,7 +23,7 @@ http://overthewire.org/wargames/natas/
 | Level 7 → 8  | [level07](level07/) ✅ |
 | Level 8 → 9  | [level08](level08/) ✅ |
 | Level 9 → 10 | [level09](level09/) ✅ |
-| Level 10 → 11 | [level10](level10/) ⬜ |
+| Level 10 → 11 | [level10](level10/) ✅ |
 | Level 11 → 12 | [level11](level11/) ⬜ |
 | Level 12 → 13 | [level12](level12/) ⬜ |
 | Level 13 → 14 | [level13](level13/) ⬜ |
