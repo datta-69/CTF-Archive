@@ -117,5 +117,6 @@ After replacing the **cookie** and refreshing the page, the application now beli
 
 ### 2. Retrieving the Password
 The page reveals the credentials for the next level:
+
 ```
 natas12:yZdkjAYZRd3R7tq7T5kXMjMJlOIkzDeB
