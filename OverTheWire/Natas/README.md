@@ -24,8 +24,8 @@ http://overthewire.org/wargames/natas/
 | Level 8 → 9  | [level08](level08/) ✅ |
 | Level 9 → 10 | [level09](level09/) ✅ |
 | Level 10 → 11 | [level10](level10/) ✅ |
-| Level 11 → 12 | [level11](level11/) ✅ |
-| Level 12 → 13 | [level12](level12/) ✅ |
+| Level 11 → 12 | [level11](level11/) ⬜ |
+| Level 12 → 13 | [level12](level12/) ⬜ |
 | Level 13 → 14 | [level13](level13/) ⬜ |
 | Level 14 → 15 | [level14](level14/) ⬜ |
 | Level 15 → 16 | [level15](level15/) ⬜ |
