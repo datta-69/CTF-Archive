@@ -7,7 +7,7 @@
 - **Category:** Web Security / Blind SQL Injection  
 - **URL:** http://natas15.natas.labs.overthewire.org  
 - **Username:** `natas15`  
-- **Password:** `6pC5e2e6n7z9h1kL8m0Qw2Xy4Z5aBcDe`
+- **Password:** `SdqIqBsFcz3yotlNYErZSZwblkm0lrvx`
 
 ---
 
@@ -90,4 +90,4 @@ By iterating through each character position, we reconstruct the full password.
 
 Final result:
 ```
-natas16:SdqIqBsFcz3yotlNYErZSZwblkm0lrvx
+natas16:hPkjKYviLQctEW33QmuXL6eDVfMW4sGo
