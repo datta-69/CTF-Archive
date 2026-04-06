@@ -68,16 +68,17 @@ We also can do this by using a script speeds up extraction.
 
 We create:
 
-281-admin
+>281-admin
 
 Convert to hex:
 
-3238312d61646d696e
+>3238312d61646d696e
+
 ### 5. Setting the Cookie
 
 Replace the PHPSESSID cookie with:
 
-3238312d61646d696e
+>3238312d61646d696e
 
 Refresh the page.
 
