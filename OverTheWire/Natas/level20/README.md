@@ -77,5 +77,5 @@ admin=1
 ## 💡 Discovery
 ```
 The application treats the user as admin and reveals:
-natas21:5s8yq1m0n7p3r4t6u9w2x8z0aBcDeFgH
+natas21:BPhv63cKE1lkQl04cE5CuFTzXe15NfiH
 ```
