@@ -35,7 +35,7 @@ http://overthewire.org/wargames/natas/
 | Level 19 → 20 | [level19](level19/) ✅ |
 | Level 20 → 21 | [level20](level20/) ✅ |
 | Level 21 → 22 | [level21](level21/) ✅ |
-| Level 22 → 23 | [level22](level22/) ⬜ |
+| Level 22 → 23 | [level22](level22/) ✅ |
 | Level 23 → 24 | [level23](level23/) ⬜ |
 | Level 24 → 25 | [level24](level24/) ⬜ |
 | Level 25 → 26 | [level25](level25/) ⬜ |
