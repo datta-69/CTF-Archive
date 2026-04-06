@@ -39,7 +39,7 @@ This application allows setting values via URL parameters:
 
 Example:
 
-``` id="d7m2kp"
+``` id="admin=1"
 ?admin=1
 ```
 However, setting admin=1 here does not immediately affect the main site.
@@ -50,6 +50,7 @@ However, setting admin=1 here does not immediately affect the main site.
 Both applications share the same ***session*** storage.
 
 Main app checks: **admin=1**
+
 Experimenter app allows setting arbitrary session variables
 
 This creates a cross-application ***session*** manipulation vulnerability.
@@ -74,6 +75,7 @@ Now return to the main application:
 
 Ensure the same session cookie **(PHPSESSID)** is used.
 
+---
 ## 💡 Discovery
 ### 1. Admin Access
 
