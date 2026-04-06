@@ -33,9 +33,8 @@ Using **Developer Tools → Application → Cookies**, we observe:
 
 Example value:
 ```
-username=1
-password=admin
-312d61646d696e
+username=1 or password=admin
+PHPSESSID = 312d61646d696e
 ```
 This looks like a hex-encoded string, not a simple number.
 
