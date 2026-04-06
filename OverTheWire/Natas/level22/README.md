@@ -85,5 +85,5 @@ By preventing the **redirect**, we can view the actual server response.
 
 The response contains:
 ```
-natas23:3xk7QpL9mN2aV5s8D1cR4tY6wZ0bFhUe
+natas23:dIUQcI3uSus1JEOSSWRAEXBG8KbR8tRs
 ```
