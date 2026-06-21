@@ -14,12 +14,12 @@ http://overthewire.org/wargames/bandit/
 | Level | Writeup |
 |-------|---------|
 | Level 0 → 1  | [level00](level00/) ✅ |
-| Level 1 → 2  | [level01](level01/) ⬜ |
-| Level 2 → 3  | [level02](level02/) ⬜ |
-| Level 3 → 4  | [level03](level03/) ⬜ |
-| Level 4 → 5  | [level04](level04/) ⬜ |
-| Level 5 → 6  | [level05](level05/) ⬜ |
-| Level 6 → 7  | [level06](level06/) ⬜ |
+| Level 1 → 2  | [level01](level01/) ✅ |
+| Level 2 → 3  | [level02](level02/) ✅ |
+| Level 3 → 4  | [level03](level03/) ✅ |
+| Level 4 → 5  | [level04](level04/) ✅ |
+| Level 5 → 6  | [level05](level05/) ✅ |
+| Level 6 → 7  | [level06](level06/) ✅ |
 | Level 7 → 8  | [level07](level07/) ⬜ |
 | Level 8 → 9  | [level08](level08/) ⬜ |
 | Level 9 → 10 | [level09](level09/) ⬜ |
